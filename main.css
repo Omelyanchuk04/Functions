@@ -1,0 +1,20 @@
+html
+body
+{background-color:   #000000;
+}
+
+ table  {
+    font-family: "Lucida Sans Unicode";
+    font-size: 28px;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto
+}
+figure img {
+   width: 50%;
+
+}
+h3 {
+   padding: 20%;
+   padding-top: 3%;
+}
